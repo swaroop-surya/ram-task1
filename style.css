@@ -1,0 +1,24 @@
+*UPDATED style.css
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+.hero-slide {
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.card {
+  transition: 0.3s;
+}
+
+.card:hover {
+  transform: translateY(-10px);
+}
+
+h1, h2, h3 {
+  font-weight: bold;
+}
