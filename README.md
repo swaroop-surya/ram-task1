@@ -1,9 +1,10 @@
-*my-bootstrap-project/ 
-│ ├── index.html      # Home Page 
-  ├── about.html      # About Page 
-  ├── contact.html    # Contact Page 
-  └── style.css       # Custom Styles
-
+📂 Project Structure
+/webwise-studio
+ ├── index.html
+ ├── about.html
+ ├── contact.html
+ ├── css/
+ │    └── styles.css
 
 ---
 
@@ -90,6 +91,7 @@ https://ram-task1.vercel.app/
 
 ## 📁 GitHub Repository
 
+https://github.com/swaroop-surya/ram-task1
 
 ---
 
