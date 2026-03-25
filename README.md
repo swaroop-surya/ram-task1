@@ -3,8 +3,7 @@
  ├── index.html
  ├── about.html
  ├── contact.html
- ├── css/
- │    └── styles.css
+ ├── style.css
 
 ---
 
